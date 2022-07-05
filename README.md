@@ -1,3 +1,9 @@
+EMSE-Maintenance aims to answer (i) What kinds of issues will smart contract developers encounter for corrective, adaptive, perfective, and preventive maintenance after they are deployed to the Ethereum? (ii) What are the current maintenance-related methods used for smart contracts? To obtain the answers to these research questions, we first conducted a systematic literature review to analyze 131 smart contract related research papers published from 2014 to 2020. We also performed an online survey of smart contract developers on Github to validate our findings and received 165 useful responses.
+
+Jiachi Chen; Xin Xia; David Lo; John Grundy; Xiaohu Yang, Maintenance-Related Concerns for Post-deployed Ethereum Smart Contract Development: Issues, Techniques, and Future Challenges, Empirical Software Engineering, 2021, 26(6): 1-44, https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7416&context=sis_research
+
+For more information. Please visit: https://www.monash.edu/it/humanise-lab/projects/completed-projects
+
 # Maintenance
 The dataset for smart contract maintenance issues. 
 
